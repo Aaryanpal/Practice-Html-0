@@ -4,7 +4,7 @@
 
 Wonder How we can rotate the page and show navbar down there using HTML CSS JS? If No, this will be the perfect repo for you.
 
-###### **Here is the link of [Live Demo]()**
+###### **Here is the link of [Live Demo](https://aaryanpal.github.io/Practice-Html-0/)**
 
 
 ## Technology Stack Used
@@ -27,5 +27,5 @@ Wonder How we can rotate the page and show navbar down there using HTML CSS JS? 
 
 ```
 
-***Glad to see you here! Show some love by [starring]() this repo.***
+***Glad to see you here! Show some love by [starring](https://aaryanpal/Practice-Html-0/) this repo.***
 
